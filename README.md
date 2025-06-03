@@ -6,3 +6,5 @@
 
 This project was part of a competition on DataCamp. 
 Machine learning was applied in this project.
+
+The .ipynb file is about 59 MB, which is greater than the allowed file size in GitHub.
