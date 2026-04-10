@@ -9,4 +9,4 @@
 This project was part of a competition on DataCamp. 
 Machine learning was applied in this project.
 
-The .ipynb file is about 59 MB, which is greater than the allowed file size in GitHub. Moreover, the main dataset was also too large to be stored on GitHub.
+The .ipynb file is about 59 MB, which is greater than the allowed file size in GitHub. Instead, a .html file was uploaded. Moreover, the main dataset was also too large to be stored on GitHub.
