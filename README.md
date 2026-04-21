@@ -4,9 +4,7 @@
 
 **The Data:** Two datasets were used pertaining to flights & airline-carrier codes.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This project was part of a competition on DataCamp. 
+This project was done in April-May, 2025. This project was part of a competition on DataCamp. 
 Machine learning was applied in this project.
 
 The .ipynb file is about 59 MB, which is greater than the allowed file size in GitHub. Instead, a .html file was uploaded. Moreover, the main dataset was also too large to be stored on GitHub.
